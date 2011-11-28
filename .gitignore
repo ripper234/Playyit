@@ -1,0 +1,12 @@
+*.bak
+*.swp
+*.iml
+*.log
+*.orig
+.idea
+/out
+/module
+server.pid
+logs/
+tmp/
+application.log
